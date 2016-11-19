@@ -1,0 +1,16 @@
+Armenia,0
+Barranquilla,1
+Bogota,2
+Buenaventura,3
+Bucaramanga,4
+Cali,5
+Cartagena,6
+Cucuta,7
+Ibague,8
+Manizales,9
+Medellin,10
+Pereira,11
+Pasto,12
+Tunja,13
+Santa Marta,14
+Villavicencio,15

@@ -1,0 +1,70 @@
+Barranquilla,Armenia,6
+Bogota,Barranquilla,12
+Bucaramanga,Bogota,11
+Bucaramanga,Armenia,3
+Bucaramanga,Barranquilla,4
+Buenaventura,Armenia,3
+Cali,Buenaventura,3
+Cali,Armenia,6
+Cali,Bogota,14
+Cali,Bucaramanga,2
+Cali,Barranquilla,4
+Cartagena,Barranquilla,6
+Cartagena,Bucaramanga,5
+Cartagena,Bogota,13
+Cartagena,Armenia,4
+Cartagena,Cali,5
+Cucuta,Bucaramanga,4
+Cucuta,Cartagena,6
+Cucuta,Cali,2
+Ibague,Armenia,2
+Ibague,Cali,3
+Ibague,Buenaventura,2
+Ibague,Bucaramanga,2
+Ibague,Cucuta,6
+Ibague,Cartagena,5
+Ibague,Barranquilla,2
+Manizales,Armenia,6
+Manizales,Ibague,2
+Manizales,Bogota,8
+Manizales,Cali,6
+Manizales,Bucaramanga,5
+Manizales,Cartagena,8
+Medellin,Manizales,4
+Medellin,Armenia,4
+Medellin,Bogota,15
+Medellin,Bucaramanga,5
+Medellin,Buenaventura,3
+Medellin,Cali,6
+Medellin,Cucuta,6
+Medellin,Cartagena,8
+Pasto,Cali,2
+Pasto,Buenaventura,4
+Pasto,Armenia,5
+Pasto,Manizales,4
+Pasto,Bogota,9
+Pasto,Medellin,3
+Pasto,Bucaramanga,6
+Pasto,Barranquilla,2
+Pereira,Medellin,2
+Pereira,Cali,4
+Pereira,Bogota,10
+Pereira,Bucaramanga,6
+Pereira,Cartagena,6
+Pereira,Barranquilla,6
+Santa Marta,Barranquilla,2
+Santa Marta,Bucaramanga,5
+Santa Marta,Medellin,2
+Santa Marta,Bogota,14
+Santa Marta,Pereira,6
+Santa Marta,Pasto,2
+Tunja,Bucaramanga,2
+Tunja,Pereira,6
+Tunja,Cucuta,2
+Tunja,Cali,3
+Tunja,Cartagena,6
+Villavicencio,Bogota,12
+Villavicencio,Tunja,5
+Villavicencio,Medellin,3
+Villavicencio,Cali,2
+Villavicencio,Cucuta,3
